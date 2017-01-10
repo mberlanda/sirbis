@@ -1,0 +1,36 @@
+!!!
+/ [if IE 8] <html lang="it" class="ie8 no-js">
+/ [if IE 9] <html lang="it" class="ie9 no-js">
+<!--[if !IE]><!-->
+%html{lang:"it"}
+  <!--<![endif]-->
+  %head
+    = render partial: 'layouts/metadata'
+    -if content_for?(:page_title)
+      %title Virgil | #{yield :page_title}
+    -else
+      %title Virgil
+    = render partial: 'layouts/stylesheets'
+    -if content_for?(:page_stylesheet)
+      = yield :page_stylesheet
+    = csrf_meta_tags
+  %body.nav-md
+    .container.body
+      .main_container
+        = render partial: 'layouts/sidebar'
+        = render partial: 'layouts/topnav'
+        .right_col{:role => "main"}
+          %div
+            -if content_for?(:page_title)
+              .page-title
+                .title_left
+                  %h3 #{yield :page_title}
+                .title_right
+                  .col-md-5.col-sm-5.col-xs-12.form-group.pull-right.top_search
+            .clearfix
+            = yield
+        = render partial: 'layouts/footer'
+    
+    = render partial: 'layouts/javascripts'
+  -if content_for?(:page_javascript)
+    =yield :page_javascript
