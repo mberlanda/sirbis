@@ -1,0 +1,532 @@
+{
+  "questions": [
+    {
+      "content": "L’affidamento del contribuente nella risposta ricevuta ad un interpello è tutelato:",
+      "answers": [
+        "Dall’illegittimità degli atti impositivi contrastanti col parere reso",
+        "Dal garante del contribuente",
+        "Solo dall’impossibilità di irrogare sanzioni e richiedere interessi al contribuente che si sia conformato alle indicazioni fornite dall’amministrazione"
+      ]
+    },
+    {
+      "content": "L’avviso di accertamento parziale",
+      "answers": [
+        "È un atto impositivo col quale viene accertato necessariamente un singolo tributo",
+        "Non è un atto impositivo",
+        "È un atto impositivo che può essere integrato in aumento indipendentemente dalla sopravvenuta conoscenza di nuovi elementi"
+      ]
+    },
+    {
+      "content": "L’agenzia delle entrate può procedere alla determinazione sintetica del reddito complessivo quando il contribuente",
+      "answers": [
+        "Dimostra di aver posseduto nel corso del periodo di imposta esclusivamente redditi soggetti a ritenuta alla fonte a titolo di imposta",
+        "Dimostra di aver sostenuto le spese nel corso del periodo di imposta con l’impiego di redditi diversi da quelli posseduti nello stesso periodo di imposta",
+        "Nessuna delle risposte precedenti è corretta"
+      ]
+    },
+    {
+      "content": "Un avviso di accertamento può essere modificato in aumento?",
+      "answers": [
+        "Sempre, laddove l’ufficio dimostri di non aver utilizzato le informazioni in suo possesso",
+        "Solo se sopravviene la conoscenza di nuovi elementi",
+        "Anche oltre il termine di decadenza, se sopravviene la conoscenza di nuovi elementi"
+      ]
+    },
+    {
+      "content": "In caso di pagamento indebito di un tributo, il contribuente deve presentare istanza di rimborso",
+      "answers": [
+        "Entro un termine fissato a pena di decadenza",
+        "Solo dopo aver proposto ricorso alla commissione tributaria competente",
+        "Entro il termine ordinario di prescrizione"
+      ]
+    },
+    {
+      "content": "L’avviso di accertamento senza imposta",
+      "answers": [
+        "Viene emesso nei confronti di soggetti passivi dell’Irpef quando l’attività di accertamento è esercitata da un ufficio dell’agenzia delle entrate incompetente",
+        "Viene emesso per accertare un maggior reddito nei confronti di possessori di reddito di lavoro autonomo",
+        "Viene emesso nei confronti delle società di persone per accertare un maggior reddito"
+      ]
+    },
+    {
+      "content": "Secondo il diritto UE, la libertà di stabilimento",
+      "answers": [
+        "È limitata al diritto di esercitare un’attività economica in uno stato membro diverso da quello di origine",
+        "Non impedisce allo stato membro di riservare trattamenti fiscali differenti tra società e stabili organizzazioni",
+        "Garantisce all’operatore economico anche la libertà di scegliere la forma giuridica con cui esercitare tale diritto"
+      ]
+    },
+    {
+      "content": "L’iscrizione a ruolo a titolo definitivo è possibile",
+      "answers": [
+        "Dopo la notifica dell’atto impositivo, quando l’amministrazione ha fondato timore di perdere la garanzia del proprio reddito",
+        "In caso di mancata impugnazione nei termini dell’atto impositivo",
+        "Dopo la sentenza di primo grado sfavorevole al contribuente"
+      ]
+    },
+    {
+      "content": "Quale tra i seguenti atti è titolo esecutivo?",
+      "answers": [
+        "Il ruolo",
+        "Il processo verbale di constatazione",
+        "L’istanza di rimborso"
+      ]
+    },
+    {
+      "content": "Il controllo formale della dichiarazione disciplinato dall’art 36-ter dpr 600/73 consente all’amministrazione di:",
+      "answers": [
+        "Rettificare gli elementi negativi del reddito di lavoro autonomo",
+        "Correggere errori materiali e di calcolo commessi dal contribuente",
+        "Escludere in tutto o in parte le detrazioni d’imposta non spettanti"
+      ]
+    },
+    {
+      "content": "Il contribuente che subisce una ritenuta alla fonte a titolo di imposta:",
+      "answers": [
+        "Acquisisce un credito di pari ammontare nei confronti dell’erario che sarà indicato in dichiarazione e sarà dedotto dal debito di imposta dell’anno",
+        "Non è completamente liberato nei confronti dell’erario dato che la ritenuta soddisfa il debito di imposta relativo al reddito assoggettato alla ritenuta stessa",
+        "È tenuto alla presentazione della dichiarazione dei redditi solo se, nel medesimo periodo di imposta, ha percepito altri redditi non soggetti a ritenuta"
+      ]
+    },
+    {
+      "content": "La dichiarazione in cui sono indicati redditi inferiori rispetto a quelli effettivamente conseguiti:",
+      "answers": [
+        "Non avendo valore di confessione vincolante, può essere ripresentata per correggere l’errore entro il termine per la presentazione della dichiarazione",
+        "Può essere ripresentata per correggere l’errore non oltre il termine di decadenza per l’accertamento relativo all’anno in cui si riferisce",
+        "Può essere ripresentata per correggere l’errore entro il termine di prescrizione di 10 anni."
+      ]
+    },
+    {
+      "content": "Secondo l’art 37-bis dpr 600/73, quando l’amministrazione contesta una condotta elusiva",
+      "answers": [
+        "Le maggiori imposte accertate possono essere iscritte a ruolo solo dopo la sentenza della commissione tributaria provinciale",
+        "Il contribuente non può presentare istanza di annullamento in autotutela",
+        "I soggetti diversi da quello cui è applicata la disposizione antielusiva non possono chiedere il rimborso delle imposte pagate a seguito di comportamenti disconosciuti"
+      ]
+    },
+    {
+      "content": "L’iscrizione a ruolo dell’obbligato dipendente",
+      "answers": [
+        "Può avvenire sulla base dell’atto impositivo notificato all’obbligato principale",
+        "Deve essere preceduta dalla notifica dell’atto impositivo a tutti i coobbligati",
+        "Non produce alcun effetto nei confronti degli altri coobbligati"
+      ]
+    },
+    {
+      "content": "Secondo la legge 241/90, l’atto impositivo privo di sottoscrizione",
+      "answers": [
+        "È nullo",
+        "È annullabile",
+        "È irregolare"
+      ]
+    },
+    {
+      "content": "La riserva di legge dell’art 23 cost riguarda",
+      "answers": [
+        "Tutte le disposizioni tributarie",
+        "Le disposizioni tributarie di diritto sostanziale comprese quelle relative all’accertamento e alla riscossione",
+        "Esclusivamente le disposizioni tributarie di diritto sostanziale"
+      ]
+    },
+    {
+      "content": "Il principio dell’indisponibilità dell’obbligazione tributaria",
+      "answers": [
+        "Impedisce all’amministrazione finanziaria di annullare l’atto impositivo anche se in tutto o in parte illegittimo",
+        "Non impedisce all’amministrazione finanziaria di annullare l’atto impositivo, in via di autotutela, quando risulti in tutto o in parte illegittimo",
+        "Consente all’amministrazione finanziaria di annullare l’atto impositivo, ma solo se viziato da incompetenza territoriale"
+      ]
+    },
+    {
+      "content": "Le convenzioni internazionali contro le doppie imposizioni",
+      "answers": [
+        "Non prevalgono sulle norme interne se queste ultime sono più favorevoli",
+        "Prevalgono sempre sulle norme interne",
+        "Prevalgono sulle norme interne solo in relazione alla nozione di stabile organizzazione"
+      ]
+    },
+    {
+      "content": "Il termine di cui dispone l’ente impositore per notificare l’avviso di accertamento",
+      "answers": [
+        "Coincide con quello di prescrizione",
+        "Nel caso di rettifica della dichiarazione dei redditi è fissato al quarto anno successivo a quello di presentazione della stessa dichiarazione",
+        "È di 60 giorni dalla consegna del processo verbale di constatazione"
+      ]
+    },
+    {
+      "content": "L’istanza di accertamento con adesione può essere presentata",
+      "answers": [
+        "Anche dopo la consegna del processo verbale di constatazione",
+        "Solo dopo la notifica dell’avviso di constatazione",
+        "Dopo la presentazione del ricorso contro l’avviso di accertamento"
+      ]
+    },
+    {
+      "content": "Quali effetti determina la proposizione dell’interpello ordinario riguardo il termine di presentazione della dichiarazione dei redditi?",
+      "answers": [
+        "Nessun effetto",
+        "Lo sospende per 120 giorni in attesa della risposta della direzione regionale o del perfezionarsi del silenzio assenso",
+        "Lo interrompe per 90 giorni per consentire alle parti di addivenire all’eventuale adesione"
+      ]
+    },
+    {
+      "content": "Chi provvede alla notifica della cartella di pagamento?",
+      "answers": [
+        "La commissione tributaria in seguito alla sentenza sfavorevole",
+        "L’agente della riscossione",
+        "L’ufficio dell’agenzia delle entrate competente territorialmente"
+      ]
+    },
+    {
+      "content": "Lo statuto dei diritti del contribuente dispone che non si può prevedere",
+      "answers": [
+        "L’istituzione di nuovi tributi col decreto legislativo",
+        "L’individuazione di nuovi soggetti passivi di tributi esistenti col decreto legge",
+        "L’adozione di decreti in materia tributaria"
+      ]
+    },
+    {
+      "content": "La dichiarazione dei redditi è infedele quando",
+      "answers": [
+        "È priva di sottoscrizione",
+        "Il reddito non è indicato nel suo esatto ammontare",
+        "È presentata oltre il termine di prescrizione decennale"
+      ]
+    },
+    {
+      "content": "Nel caso in cui il contribuente si sia conformato all’interpretazione fornita dall’amministrazione, e successivamente dalla stessa modificata, lo statuto esclude",
+      "answers": [
+        "Il pagamento del tributo",
+        "Il pagamento del tributo e l’irrogazione di sanzioni",
+        "L’irrogazione di sanzioni"
+      ]
+    },
+    {
+      "content": "La libertà di circolazione dei capitali prevista dal trattato UE",
+      "answers": [
+        "Obbliga gli stati membri ad adottare regimi fiscali che non discriminino in base alla residenza degli investitori ed in base al luogo in cui i capitali sono investiti",
+        "Consente agli stati membri di adottare regimi fiscali differenziati per la tassazione degli investimenti, a patto che non costituiscano una restrizione dissimulata al libero movimento di capitali e di pagamenti",
+        "Impone agli stati membri di non concedere aiuti di stato incompatibili col mercato comune"
+      ]
+    },
+    {
+      "content": "La solidarietà passiva nel diritto tributario",
+      "answers": [
+        "Non sussiste, essendo riscontrabile la sola solidarietà attiva",
+        "È prevista da numerose disposizioni di legge, ad esempio nell’ambito dell’imposta di registro, ma è regolata da disposizioni del codice civile",
+        "Si configura esclusivamente in una fattispecie: tra gli eredi relativamente alle obbligazioni tributarie del de cuius"
+      ]
+    },
+    {
+      "content": "I soggetti obbligati alla tenuta delle scritture contabili",
+      "answers": [
+        "Non devono presentare la dichiarazione dei redditi",
+        "Non sono esenti dall’obbligo di presentazione della dichiarazione dei redditi se realizzano una perdita fiscale",
+        "Non rivestono mai la qualifica di sostituti di imposta"
+      ]
+    },
+    {
+      "content": "Le circolari ministeriali",
+      "answers": [
+        "Sono vincolanti per il contribuente ma non per l’amministrazione finanziaria",
+        "Sono vincolanti soltanto per il giudice tributario",
+        "Sono fonte di legittimo affidamento del contribuente in ordine al comportamento da tenere nell’applicazione delle leggi tributarie"
+      ]
+    },
+    {
+      "content": "La dichiarazione dei redditi",
+      "answers": [
+        "Nonostante non faccia piena prova contro il contribuente dei fatti dichiarati, non può essere presentata per correggere errori od omissioni",
+        "Essendo equiparabile ad una confessione extragiudiziale, non costituisce titolo per la riscossione delle somme in essa indicate",
+        "Non fa piena prova contro il contribuente in relazione ai fatti dichiarati ma esonera l’amministrazione dal provare i fatti in essa indicati"
+      ]
+    },
+    {
+      "content": "La sospensione amministrativa del ruolo",
+      "answers": [
+        "È una conseguenza automatica dell’impugnazione della cartella di pagamento",
+        "Una volta concessa non può essere revocata fino al deposito della sentenza di primo grado",
+        "Può essere concessa dall’amministrazione finanziaria"
+      ]
+    },
+    {
+      "content": "Secondo il diritto UE, le disparità di trattamento fondate sulla nazionalità",
+      "answers": [
+        "Sono sempre incompatibili con le libertà fondamentali sancite dal trattato",
+        "Non sono incompatibili con le libertà fondamentali sancite dal trattato se sono volte ad impedire la violazione delle leggi fiscali",
+        "Non sono incompatibili con le libertà fondamentali per il principio di sovranità nazionale"
+      ]
+    },
+    {
+      "content": "La procedura di liquidazione dell’art 36-bis del dpr 600/73 permette",
+      "answers": [
+        "All’amministrazione di rettificare gli elementi positivi di reddito",
+        "All’agente della riscossione di iscrivere a ruolo le imposte dichiarate e non versate",
+        "All’amministrazione di controllare la corrispondenza tra imposta dichiarata ed imposta versata"
+      ]
+    },
+    {
+      "content": "Un avviso di accertamento può essere modificato in aumento?",
+      "answers": [
+        "Sempre, anche se l’ufficio non ha autorizzato tutte le informazioni in suo possesso",
+        "Solo se sopravviene la conoscenza di nuovi elementi",
+        "Anche oltre il termine di decadenza, se sopravviene la conoscenza di nuovi elementi"
+      ]
+    },
+    {
+      "content": "La riserva di legge dell’art 23 cost si applica",
+      "answers": [
+        "Alle norme procedurali che disciplinano l’accertamento e la riscossione",
+        "Alle norme sostanziali che disciplinano an e quantum del tributo",
+        "Sia alle norme procedurali che a quelle sostanziali trattandosi di una riserva relativa"
+      ]
+    },
+    {
+      "content": "Per ottenere il rimborso del credito di imposta esposto nella dichiarazione dei redditi, il contribuente",
+      "answers": [
+        "Deve presentare istanza di rimborso entro un termine di decadenza",
+        "Non è obbligato a presentare istanza di rimborso",
+        "Deve utilizzare il credito in compensazione"
+      ]
+    },
+    {
+      "content": "È ammesso l’accollo del debito d’imposta",
+      "answers": [
+        "Si ma solo con liberazione del debitore originario",
+        "No, in nessun caso",
+        "Si ma a titolo cumulativo"
+      ]
+    },
+    {
+      "content": "L’accertamento analitico contabile del reddito di impresa",
+      "answers": [
+        "Consente la rettifica del reddito dichiarato sulla base della spesa per incrementi patrimoniali",
+        "Consente la determinazione presuntiva dei ricavi potenzialmente attribuibili al contribuente",
+        "Consente la rettifica di singole componenti del reddito dichiarato"
+      ]
+    },
+    {
+      "content": "La riserva di legge dell’art 23 cost",
+      "answers": [
+        "Impedisce la legiferazione tributaria da parte delle regioni",
+        "Impedisce la legiferazione tributaria mediante atti aventi forza di legge",
+        "Nessuna delle precedenti risposte è corretta"
+      ]
+    },
+    {
+      "content": "I soggetti obbligati alla tenuta delle scritture contabili",
+      "answers": [
+        "Devono presentare la dichiarazione dei redditi",
+        "Sono esonerati dall’obbligo di presentazione della dichiarazione dei redditi se rivestono la qualifica di sostituti d’imposta",
+        "Devono presentare la dichiarazione dei redditi solo in presenza di un debito d’imposta"
+      ]
+    },
+    {
+      "content": "L’accertamento sintetico si distingue dall’accertamento analitico perché",
+      "answers": [
+        "Prescinde da una rideterminazione puntuale delle categorie",
+        "Si applica prevalentemente ai redditi di capitale per loro natura determinati in via fortettaria",
+        "Può prescindere da qualsiasi forma di contraddittorio preventivo con il contribuente"
+      ]
+    },
+    {
+      "content": "Quale tra i seguenti è un presupposto di definitività dell’atto impositivo?",
+      "answers": [
+        "Passaggio in giudicato della sentenza che ne respinge la domanda di annullamento",
+        "Mancata risposta ad un’istanza di annullamento in autotutela",
+        "Mancata impugnazione dell’iscrizione a ruolo"
+      ]
+    },
+    {
+      "content": "Il divieto di doppia imposizione",
+      "answers": [
+        "Consente l’applicazione di imposte differenti sul medesimo presupposto",
+        "Non è un principio generale dell’ordinamento tributario",
+        "Non consente l’applicazione della stessa imposta sul medesimo presupposto, neppure nei confronti di soggetti passivi diversi"
+      ]
+    },
+    {
+      "content": "Se il contribuente aderisce ai rilievi contenuti nel processo verbale di constatazione",
+      "answers": [
+        "Può presentare istanza di accertamento con adesione",
+        "Usufruisce della riduzione delle sanzioni ad un sesto",
+        "Usufruisce della riduzione delle sanzioni ad un terzo"
+      ]
+    },
+    {
+      "content": "Quale avviso di accertamento deve contenere anche l’intimazione ad adempiere?",
+      "answers": [
+        "L’avviso emesso ai fini dell’imposta di registro",
+        "L’avviso emesso ai fini delle imposte sui redditi, ma solo quando è preceduto da un processo verbale di constatazione",
+        "L’avviso emesso ai fini dell’IVA"
+      ]
+    },
+    {
+      "content": "È radicalmente nullo e non semplicemente annullabile il provvedimento amministrativo che",
+      "answers": [
+        "È privo di sottoscrizione",
+        "Non tiene conto delle informazioni fornite dal contribuente in sede di contraddittorio",
+        "È notificato oltre i termini di decadenza"
+      ]
+    },
+    {
+      "content": "Quando l’avviso di accertamento non ha valore di intimazione ad adempiere, le imposte evase vengono riscosse mediante iscrizione a ruolo",
+      "answers": [
+        "A titolo definitivo",
+        "Sempre a titolo provvisorio",
+        "A titolo definitivo se non v’è stata impugnazione dell’atto impositivo"
+      ]
+    },
+    {
+      "content": "Quale tra i seguenti è un presupposto di definitività dell’avviso di accertamento?",
+      "answers": [
+        "Il passaggio in giudicato della sentenza che ne respinge la domanda di annullamento",
+        "La mancata impugnazione della cartella di pagamento notificata successivamente all’avviso di accertamento",
+        "La mancata impugnazione del processo verbale di constatazione in cui sono indicate le violazioni successivamente contestate con l’avviso di accertamento"
+      ]
+    },
+    {
+      "content": "A tutela dell’integrità patrimoniale, lo statuto prevede anche che",
+      "answers": [
+        "Non si possono prorogare i termini di decadenza per la notifica degli atti impositivi salvo il caso di sopravvenuta conoscenza di nuovi elementi",
+        "L’obbligo di conservazione dei documenti può superare il termine di 10 anni dalla loro formazione",
+        "Non si possono stabilire né prorogare i termini di prescrizione oltre il limite ordinario stabilito dal codice civile"
+      ]
+    },
+    {
+      "content": "Se l’amministrazione risponde ad un interpello ordinario entro 120 giorni dalla sua proposizione",
+      "answers": [
+        "Il contribuente può liberamente decidere se uniformarsi o meno al parere espresso dall’amministrazione",
+        "Il contribuente non potrà successivamente impugnare un eventuale avviso di accertamento",
+        "Il contribuente deve interpretare la disposizione normativa nel senso indicato dall’amministrazione"
+      ]
+    },
+    {
+      "content": "L’iscrizione a ruolo dell’obbligato dipendente",
+      "answers": [
+        "Non può avvenire sulla base dell’atto impositivo notificato all’obbligato principale",
+        "Deve essere preceduta dalla notifica dell’atto impositivo a tutti i coobbligati",
+        "Produce effetti nei confronti degli altri coobbligati"
+      ]
+    },
+    {
+      "content": "Il termine di 60 giorni per la comunicazione di osservazioni e richieste previsto dall’art 12.7 dello statuto decorre",
+      "answers": [
+        "Dalla notifica dell’invito al contraddittorio",
+        "Dal rilascio del processo verbale di constatazione",
+        "Dalla notifica dell’avviso di accertamento"
+      ]
+    },
+    {
+      "content": "Non è necessaria la motivazione",
+      "answers": [
+        "Del ruolo, dato che si tratta di un provvedimento amministrativo",
+        "Dell’atto impositivo con cui viene contestato un comportamento elusivo, dato che deve essere sempre preceduto da una richiesta di chiarimenti",
+        "Del processo verbale di constatazione, non essendo un provvedimento amministrativo"
+      ]
+    },
+    {
+      "content": "L’utilizzo del decreto legge per l’applicazione dei tributi esistenti ad altre categorie di soggetti è vietato",
+      "answers": [
+        "Dall’art 53 cost",
+        "Per il principio di indisponibilità dell’obbligazione tributaria",
+        "Dallo statuto"
+      ]
+    },
+    {
+      "content": "L’accertamento analitico-induttivo mediante studi di settore",
+      "answers": [
+        "Consente la rettifica del reddito dichiarato sulla base delle spese sostenute nell’anno di imposta e nei 5 anni precedenti",
+        "Permette la determinazione del reddito di lavoro dipendente sulla base delle ore effettivamente lavorate",
+        "Consente la determinazione presuntiva dei ricavi potenzialmente attribuibili al contribuente"
+      ]
+    },
+    {
+      "content": "Il potere di autotutela è esercitato",
+      "answers": [
+        "Solo d’ufficio",
+        "Anche su istanza di parte",
+        "A seguito di sentenza favorevole (al contribuente) del giudice tributario"
+      ]
+    },
+    {
+      "content": "La riscossione delle imposte dirette può avvenire",
+      "answers": [
+        "Solo mediante ritenute dirette",
+        "Solo mediante ritenute alla fonte",
+        "Solo mediante iscrizione a ruolo"
+      ]
+    },
+    {
+      "content": "Le leggi tributarie retroattive",
+      "answers": [
+        "Sono vietate dall’art 23 cost",
+        "Sono ammesse dall’art 53 cost se colpiscono un fatto del passato che esprime capacità contributiva attuale",
+        "Sono vietate dall’art 3 cost"
+      ]
+    },
+    {
+      "content": "Il principio di progressività dell’imposizione",
+      "answers": [
+        "Riguarda necessariamente tutti i tributi",
+        "Non vieta che alcuni tributi siano ispirati a criteri diversi",
+        "Deve riguardare tutti i tributi, escluso quello avente valore caratterizzante di tutto il sistema tributario"
+      ]
+    },
+    {
+      "content": "Quale, tra le seguenti facoltà, non è ammessa in seguito alla notifica del processo verbale di constatazione?",
+      "answers": [
+        "La presentazione di istanza di autotutela",
+        "La presentazione di istanza di accertamento con adesione",
+        "La presentazione di osservazioni"
+      ]
+    },
+    {
+      "content": "Il ricorso al decreto legislativo per l’istituzione di nuovi tributi",
+      "answers": [
+        "È sempre possibile",
+        "È vietato dallo statuto",
+        "È vietato dalla costituzione"
+      ]
+    },
+    {
+      "content": "Le sanzioni amministrative possono essere iscritte a ruolo",
+      "answers": [
+        "In pendenza del giudizio di primo grado ma solo nella misura di un terzo",
+        "A seguito del giudizio di primo grado, anche se parzialmente favorevole al contribuente",
+        "Solo quando l’atto o il provvedimento di irrogazione diviene definitivo"
+      ]
+    },
+    {
+      "content": "Le sanzioni amministrative possono essere iscritte a ruolo",
+      "answers": [
+        "In pendenza del giudizio di primo grado ma solo nella misura di un terzo",
+        "A seguito del giudizio di primo grado anche se parzialmente favorevole al contribuente",
+        "Solo quando l’avviso di accertamento o il provvedimento di irrogazione diviene definitivo"
+      ]
+    },
+    {
+      "content": "In quale dei seguenti casi è obbligatoria l’instaurazione dell’accertamento mediante controllo dei conti correnti bancari?",
+      "answers": [
+        "Quando l’amministrazione finanziaria procede all’accertamento mediante controllo dei conti correnti bancari",
+        "Al termine della verifica fiscale dopo la consegna del processo verbale di constatazione",
+        "Nessuna delle precedenti risposte è corretta"
+      ]
+    },
+    {
+      "content": "I sostituti di imposta",
+      "answers": [
+        "Sono esonerati dall’obbligo di presentazione della dichiarazione dei redditi se non effettuano ritenute nel periodo di imposta",
+        "Non sono soggetti all’obbligo di presentazione di alcuna dichiarazione",
+        "Sono gravati dall’obbligo di presentazione della dichiarazione da cui devono risultare le somme corrisposte e le ritenute operate"
+      ]
+    },
+    {
+      "content": "Se il contribuente aderisce ai rilievi contenuti nel processo verbale di constatazione",
+      "answers": [
+        "Può presentare istanza di accertamento con adesione",
+        "Usufruisce della riduzione delle sanzioni di un sesto",
+        "Usufruisce della riduzione delle imposte ad un terzo"
+      ]
+    }
+  ]
+}
