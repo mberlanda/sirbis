@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   root 'home#index'
 
-  resources :questions, only: [:index] do
+  resources :questions do
     collection do
       get :datatable_index
     end

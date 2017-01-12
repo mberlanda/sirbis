@@ -2,7 +2,7 @@ class CreateAnswers < ActiveRecord::Migration[5.0]
   def up
     create_table :answers do |t|
       t.text :text, null:false
-      t.boolean :right
+      t.boolean :right, default: false
 
       t.timestamps null:false
     end
