@@ -1,9 +1,5 @@
-# Virgil
+# Sir Bis
 
-Virgil's work has had wide and deep influence on Western literature, most notably Dante's Divine Comedy, in which Virgil appears as Dante's guide through hell and purgatory
+Sir Bis is a quiz app designed to help people who needs to revise for a Tax Law exam.
 
-
-```
-$ rails new virgil --skip-bundle --skip-turbolinks --skip-action-mailer --database=postgresql
-virgil/ $ bundle install
-```
+![Image of Sir Bis](public/sirbis.jpg)

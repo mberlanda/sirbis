@@ -16,10 +16,13 @@ require "rails/test_unit/railtie"
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-module Virgil
+module Sirbis
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
+    config.autoload_paths << Rails.root.join('lib')
+    config.autoload_paths += Dir[Rails.root.join('lib', '**', '*.{rb,yml}').to_s]
+
   end
 end
