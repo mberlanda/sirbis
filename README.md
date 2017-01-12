@@ -1,7 +1,5 @@
 # Sir Bis
 
+Sir Bis is a quiz app designed to help people who needs to revise for a Tax Law exam.
 
-```
-$ rails new sirbis --skip-bundle --skip-turbolinks --skip-action-mailer --database=postgresql
-sirbis/ $ bundle install
-```
+![Image of Sir Bis](public/sirbis.jpg)
