@@ -21,6 +21,12 @@
         = render partial: 'layouts/topnav'
         .right_col{:role => "main"}
           %div
+            - flash.each do |key, value|
+              .alert{:align => "center", class: "alert-#{key} alert-dismissable"}
+                %a.close{"aria-label" => "close", "data-dismiss" => "alert", :href => "#"} ×
+                %strong #{key}!
+                #{value}
+
             -if content_for?(:page_title)
               .page-title
                 .title_left

@@ -4,6 +4,10 @@ Rails.application.routes.draw do
   root 'home#index'
 
   resources :questions do
+    member do
+      post :set_answer
+    end
+
     collection do
       get :datatable_index
     end

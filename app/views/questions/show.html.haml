@@ -3,7 +3,10 @@
 .col-md-12.col-sm-12.col-xs-12
   .x_panel
     .x_content
-      %h2= @question.text
+    
+      %h2 #{@question.text}
       %br/
       - @question.answers.each do |answer|
-        %p{style:"color:#{answer.right ? 'green' : 'red'};"}= answer.text
+        %p{style:"color:#{answer.right ? 'green' : 'red'};"} #{answer.text}
+      %br/
+      = link_to('Modifica', edit_question_path(@question.id), {class: 'btn btn-primary'})

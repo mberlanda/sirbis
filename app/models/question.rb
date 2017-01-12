@@ -5,4 +5,11 @@ class Question < ActiveRecord::Base
   def answered?
     answers.map(&:right).include?(true)
   end
+
+  def set_answer(answer_id)
+    answers.map(&:to_wrong)
+    a = answers.find(answer_id)
+    a.right = true
+    a.save!
+  end
 end
