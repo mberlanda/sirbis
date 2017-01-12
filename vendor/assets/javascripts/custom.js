@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-var URL = window.location,
+var THEME_URL = window.location,
     $BODY = $('body'),
     $MENU_TOGGLE = $('#menu_toggle'),
     $SIDEBAR_MENU = $('#sidebar-menu'),
@@ -76,10 +76,10 @@ $(function () {
     });
 
     // check active menu
-    $SIDEBAR_MENU.find('a[href="' + URL + '"]').parent('li').addClass('current-page');
+    $SIDEBAR_MENU.find('a[href="' + THEME_URL + '"]').parent('li').addClass('current-page');
 
     $SIDEBAR_MENU.find('a').filter(function () {
-        return this.href == URL;
+        return this.href == THEME_URL;
     }).parent('li').addClass('current-page').parents('ul').slideDown(function() {
         setContentHeight();
     }).parent().addClass('active');

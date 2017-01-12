@@ -1,7 +1,7 @@
 .col-md-3.left_col
   .left_col.scroll-view
     .navbar.nav_title{:style => "border: 0;"}
-      %a.site_title{:href => "index.html"}
+      %a.site_title{:href => root_path}
         %i.fa.fa-money
         %span Tributario
     .clearfix
@@ -21,7 +21,7 @@
               %li
                 %a{:href => "/"} Set Right Answer
               %li
-                %a{:href => "/"} View All
+                %a{:href => questions_path} View All
           %li
             %a
               %i.fa.fa-edit
