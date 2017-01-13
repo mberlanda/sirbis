@@ -1,4 +1,4 @@
-module QuizFormatter
+module DocsityQuizFormatter
   extend self
 
   def parse_file

@@ -1,0 +1,93 @@
+quiz:
+  date: '2014-12-17'
+questions:
+  - content: La mancata impugnazione dell'iscrizione a ruolo a titolo provvisorio
+    answers: 
+      - rende incontestabile la pretesa impositiva
+        non preclude la possibilità di ottenere a rimborso le somme pagate a fronte del ruolo
+        nessuna delle risposte precedenti è corretta
+  - content: Il processo verbale di constatazione può essere impugnato?
+    answers:
+      - Sì, sempre
+      - No, mai
+      - Sì, se contiene la quantificazione del tributo evaso
+  - content: La dichiarazione dei redditi
+    answers:
+      - non ha alcun rilievo probatorio essendo equiparabile ad una confessione vincolante
+      - può essere ripresentata per modificare errori o inesattezze
+      - non costituisce titolo per la riscossione delle imposte in essa indicate
+  - content: La plusvalenza, quale componente positivo del reddito di impresa, è costituita
+    answers:
+      - dalla differenza tra il corrispettivo percepito per la cessione del bene e il suo valore fiscalmente riconosciuto
+      - dall'intero corrispettivo percepito, a meno che non si tratti di beni posseduti da almeno tre esercizi
+      - sempre dal valore normale del bene ceduto
+  - content: Le presunzioni previste in materia di accertamenti bancari
+    answers:
+      - sono presunzioni semplici
+      - sono presunzioni legali relative
+      - sono presunzioni legali assolute
+  - content: L'avviso di accertamento esecutivo
+    answers:
+      - può contenere recuperi solo ai fini delle imposte sui redditi
+      - è notificato dall'Agente per la riscossione, perché svolge la stessa funzione della cartella di pagamento
+      - contiene l'intimazione di pagamento
+  - content: Quale tra le seguenti non è una caratteristica del tributo?
+    answers:
+      - la coattività
+      - la destinazione al finanziamento della pubblica spesa
+      - la sinallagmaticità
+  - content: Il contribuente che subisce una ritenuta alla fonte a titolo di acconto
+    answers:
+      - acquisisce un credito di pari ammontare nei confronti dell'erario che sarà indicato in dichiarazione e sarà dedotto dal debito dell'imposta dell'anno
+      - è liberato nei confronti dell'erario
+      - non è soggetto all'esercizio della rivalsa da parte del sostituto
+  - content: Il contribuente può proporre ricorso avverso un atto impositivo
+    answers:
+      - anche se ha presentato istanza di accertamento con adesione
+      - solo se rinuncia a presentare istanza di accertamento con adesione
+      - quando la procedura di accertamento con adesione si è perfezionata
+  - content: Quale tra i seguenti soggetti non è tenuto alla presentazione della dichiarazione?
+    answers:
+      - l'imprenditore che realizza la perdita fiscale
+      - la persona fisica che non possiede esclusivamente redditi sottoposti a ritenuta alla fonte a titolo di imposta
+      - la persona fisica che possiede solo redditi di lavoro dipendente
+  - content: L'impugnazione dell'avviso di accertamento
+    answers:
+      - sospende la riscossione fino alla sentenza di primo grado
+      - non sospende la riscossione
+      - permette all'amministrazione di riscuotere solo una parte delle sanzioni amministrative erogate
+  - content: L'avviso di accertamento motivato "per relationem" ad altro atto conosciuto dal contribuente
+    answers:
+      - è annullabile anche se l'atto conosciuto dal contribuente è allegato all'avviso di accertamento
+      - è sempre annullabile
+      - non è affetto da alcun vizio
+  - content: L'istanza di annullamento in autotutela può essere presentata
+    answers:
+      - successivamente alla consegna del processo verbale di constatazione
+      - dopo la notifica dell'atto impositivo
+      - nessuna delle risposte precedenti è corretta
+  - content: Nella solidarietà tributaria dipendente
+    answers:
+      - più soggetti, in capo ai quali è riferibile il presupposto del tributo, sono tenuti in solido ad adempiere all'obbligazione tributaria
+      - solo i soggetti che hanno realizzato il presupposto sono tenuti ad adempiere all'obbligazione tributaria
+      - se l'atto impositivo viene notificato solo all'obbligato principale, unicamente quest'ultimo è tenuto ad adempiere all'obbligazione tributaria
+  - content: Non si trasmette agli eredi
+    answers:
+      - l'obbligazione al pagamento dell'imposta
+      - l'obbligazione al pagamento degli interessi
+      - l'obbligazione al pagamento della sanzione amministrativa
+  - content: è nullo il provvedimento amministrativo che
+    answers:
+      - è privo di sottoscrizione
+      - non indica presso quale organo è possibile promuovere un riesame dell'atto in sede di autotutela
+      - in caso di notifica a mezzo di servizio postale, è consegnato al contribuente oltre ai termini di decadenza
+  - content: Il concorso alle spese pubbliche, in base alla Costituzione, avviene
+    answers:
+      - in applicazione del principio del beneficio
+      - in ragione dell'attitudine alla contribuzione da ciascuno dimostrata
+      - su base volontaria, in conformità al principio di solidarietà di cui all'art. 2 della Costituzione
+  - content: L'obbligazione tributaria non può essere estinta
+    answers:
+      - mediante versamenti diretti
+      - mediante rinuncia al credito da parte dell'amministrazione
+      - mediante compensazione
