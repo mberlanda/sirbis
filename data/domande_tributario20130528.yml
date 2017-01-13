@@ -1,0 +1,93 @@
+quiz:
+  date: '2013-05-28'
+questions:
+  - content: La dichiarazione dei redditi
+    answers:
+      - ha rilievo probatorio, perché esonera l'amministrazione dall'obbligo di provare i fatti in essa indicati
+      - può essere ripresentata per modificare errori o inesattezze senza alcun limite di tempo
+      - non costituisce titolo per la riscossione delle imposte in essa indicate
+  - content: I provvedimenti amministrativi tributari
+    answers:
+      - sono generalmente discrezionali, come ogni provvedimento amministrativo
+      - sono espressione di una funzione vincolata
+      - sono discrezionali, perché la scelta dei soggetti da sottoporre a controllo è (almeno in parte) discrezionale
+  - content: Quando un avviso di accertamento può essere notificato oltre gli ordinari termini di decadenza?
+    answers:
+      - quando l'amministrazione notifica un questionario, atto che interrompe i termini di decadenza
+      - in caso di violazione che comporta obbligo di denuncia per uno dei reati previsti dal D.l. 10 marzo 2000 n. 74
+      - quando l'amministrazione emette un avviso di accertamento integrativo
+  - content: La proposizione dell'istanza di accertamento con adesione esclude
+    answers:
+      - la possibilità di proporre ricorso avverso l'atto impositivo
+      - il diritto al contraddittorio preventivo rispetto all'emissione dell'atto impositivo
+      - nessuna delle risposte precedenti è corretta
+  - content: Quale fra le seguenti fonti non può soddisfare la riserva di legge in materia tributaria?
+    answers:
+      - il decreto del Presidente del Consiglio dei Ministri
+      - il decreto legislativo
+      - il decreto legge
+  - content: Quale, tra i seguenti soggetti, è legittimato ad effettuare l'iscrizione a ruolo?
+    answers:
+      - la Commissione tributaria provinciale, se respinge il ricorso del contribuente
+      - l'Agenzia delle Entrate
+      - l'Agente della riscossione, prima della notifica della cartella di pagamento
+  - content: Considerato che il ricorso contro il ruolo non sospende la riscossione, il contribuente può domandare la sospensione del ruolo
+    answers:
+      - solo in via amministrativa
+      - anche in via amministrativa
+      - solo in via giurisdizionale
+  - content: Quando l'avviso di accertamento non ha valore di intimazione ad adempiere, le imposte evase vengono riscosse mediante iscrizione a ruolo
+    answers:
+      - a titolo definitivo
+      - a titolo provvisorio
+      - a titolo definitivo se non vi è stata impugnazione dell'atto impositivo
+  - content: L'affidamento del contribuente nella risposta ricevuta ad un interpello è tutelato
+    answers:
+      - dall'illegittimità degli atti impositivi contrastanti con il parere reso
+      - dal garante del contribuente
+      - dall'impossibilità di erogare sanzioni e richiedere interessi al contribuente che si sia conformato alle indicazioni fornite dall'amministrazione
+  - content: L'amministrazione, con il cosiddetto "redditometro"
+    answers:
+      - ridetermina i costi indicati in dichiarazione, sulla base delle spese risultanti dall'Anagrafe tributaria
+      - ridetermina le spese complessive del contribuente,anche sulla base del reddito non dichiarato
+      - ridetermina il reddito complessivo del contribuente,anche sulla base delle spese sostenute
+  - content: In caso di obbligazione solidale paritaria
+    answers:
+      - i rapporti interni tra condebitori sono opponibili all'amministrazione finanziaria
+      - l'avviso di accertamento può essere notificato anche solo ad uno dei condebitori
+      - l'amministrazione finanziaria può iscrivere a ruolo tutti i condebitori anche senza notificare l'avviso di accertamento
+  - content: La mancata impugnazione dell'atto impositivo entro 30 giorni dalla notifica
+    answers:
+      - non preclude la possibilità di presentare istanza di accertamento con adesione
+      - rende definitivo l'atto impositivo
+      - consente l'iscrizione a ruolo provvisoria delle imposte accertate
+  - content: è nullo il provvedimento amministrativo che
+    answers:
+      - è notificato a società estinta
+      - non indica presso quale organo è possibile promuovere un riesame dell'atto in sede di autotutela
+      - in caso di notifica tramite ufficiale giudiziario, è consegnato al contribuente oltre i termini di decadenza
+  - content: Il principio di progressività dell'imposizione
+    answers:
+      - riguarda necessariamente tutti i tributi
+      - non vieta che alcuni tributi siano ispirati a criteri diversi
+      - deve riguardare tutti i tributi, escluso quello avente valore caratterizzante di tutto il sistema tributario
+  - content: Quale, tra le seguenti facoltà, non è ammessa in seguito alla notifica del processo verbale di constatazione
+    answers:
+      - la presentazione dell'istanza di autotutela
+      - la presentazione dell'istanza di accertamento con adesione
+      - la presentazione di osservazioni
+  - content: Il ricorso al decreto legislativo per l'istituzione di nuovi tributi
+    answers:
+      - è sempre possibile
+      - è vietato dallo statuto dei diritti del contribuente
+      - è vietato dalla Costituzione
+  - content: Le sanzioni amministrative possono essere iscritte a ruolo
+    answers:
+      - in pendenza del giudizio di primo grado, ma solo nella misura di un terzo
+      - a seguito del giudizio di primo grado, anche se parzialmente favorevole al contribuente
+      - solo quando l'atto o il provvedimento di irrogazione diviene definitivo
+  - content: Il principio comunitario di non discriminazione
+    answers:
+      - assicura il diritto di esercitare un'attività economica in uno Stato membro diverso da quello di origine
+      - vieta diversità di trattamenti fiscali tra cittadini italiani e cittadini di altri Stati membri
+      - non opera nell'ambito del diritto tributario sostanziale
