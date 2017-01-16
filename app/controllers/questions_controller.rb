@@ -2,6 +2,9 @@ class QuestionsController < ApplicationController
   def index
   end
 
+  def unanswered
+  end
+  
   def show
     @question = Question.includes(:answers).find(params[:id])
   end
@@ -25,6 +28,15 @@ class QuestionsController < ApplicationController
 
   def datatable_index
     @response = Question.includes(:answers).all
+    @data = @response.map(&format_datatable_index)  # {|q| [q.id, q.text, q.answers.count ] }
+    
+    respond_to do |format|
+      format.json { render 'shared/search' }
+    end
+  end
+
+  def datatable_unanswered
+    @response = Question.unanswered
     @data = @response.map(&format_datatable_index)  # {|q| [q.id, q.text, q.answers.count ] }
     
     respond_to do |format|

@@ -10,6 +10,8 @@ Rails.application.routes.draw do
 
     collection do
       get :datatable_index
+      get :datatable_unanswered
+      get :unanswered
     end
   end
 

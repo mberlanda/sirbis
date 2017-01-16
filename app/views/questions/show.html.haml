@@ -9,4 +9,7 @@
       - @question.answers.each do |answer|
         %p{style:"color:#{answer.right ? 'green' : 'red'};"} #{answer.text}
       %br/
-      = link_to('Modifica', edit_question_path(@question.id), {class: 'btn btn-primary'})
+      = link_to('Edit', edit_question_path(@question.id), {class: 'btn btn-round btn-primary'})
+      = link_to('View All', questions_path, {class: 'btn btn-round btn-default'})
+      = link_to('View Unanswered', unanswered_questions_path, {class: 'btn btn-round btn-warning'})
+
