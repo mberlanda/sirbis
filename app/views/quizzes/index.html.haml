@@ -16,5 +16,6 @@
           - @quizzes.each do |q|
             %tr
               %td #{q.id}
-              %td #{q.due_date}
+              %td
+                %strong= link_to "#{q.due_date}", quiz_path(q.id)
               %td #{q.questions.count} (#{q.questions.select{|qu| qu.answered?}.count})
