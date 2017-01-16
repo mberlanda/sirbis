@@ -1,0 +1,21 @@
+- provide :page_title, 'Quiz Index'
+
+.col-md-12.col-sm-12.col-xs-12
+  .x_panel
+    .x_content
+      %br/
+      .questions-index-buttons
+      %br/
+      %table.table.table-striped.table-bordered#questions-index
+        %thead
+          %tr
+            %th id
+            %th date
+            %th domande (risposte)
+        %tbody
+          - @quizzes.each do |q|
+            %tr
+              %td #{q.id}
+              %td
+                %strong= link_to "#{q.due_date}", quiz_path(q.id)
+              %td #{q.questions.count} (#{q.questions.select{|qu| qu.answered?}.count})

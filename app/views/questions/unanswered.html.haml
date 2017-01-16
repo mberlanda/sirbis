@@ -1,0 +1,42 @@
+- provide :page_title, 'Unanswered Questions'
+
+.col-md-12.col-sm-12.col-xs-12
+  .x_panel
+    .x_content
+      %br/
+      .questions-index-buttons
+      %br/
+      %table.table.table-striped.table-bordered#questions-index
+        %thead
+          %tr
+            %th id
+            %th testo
+            %th risposte
+
+- provide :page_javascript do
+  = render partial: 'layouts/datatable_js'
+  :javascript
+    $(document).ready(function() {
+      var indexTable = $("#questions-index").DataTable({
+        'buttons': ['copy', 'excel', 'pdf'],
+        'processing': true,
+        'pageLength': 50,
+        'order': [[0, 'asc']],
+        'processing': true,
+        'ordering': true,
+        'dom': 'fl<"table-scrollable"t>irp',
+        'columnDefs': [
+          {
+            targets: [],
+            orderable: true
+          }
+        ],
+        'ajax': '#{datatable_unanswered_questions_path}'
+      });
+      new $.fn.dataTable.Buttons( indexTable, {
+        buttons: [
+          'copy', 'excel', 'pdf'
+        ]
+      });
+      indexTable.buttons().container().appendTo( $('.questions-index-buttons') );
+    });
