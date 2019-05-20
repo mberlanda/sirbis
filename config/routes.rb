@@ -15,6 +15,9 @@ Rails.application.routes.draw do
     end
   end
 
-  resources :quizzes
-
+  resources :quizzes do
+    collection do
+      get :random
+    end
+  end
 end

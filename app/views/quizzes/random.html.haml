@@ -1,0 +1,27 @@
+- provide :page_title, 'Random quiz'
+
+.col-md-12.col-sm-12.col-xs-12
+  .x_panel
+    .x_content
+      %h2 Create new random quiz
+      %br/
+      %form.form-horizontal{ action: quizzes_path, method: :post }
+        %input{ type: 'hidden', name:'utf8', value: '✓'}
+        %input{ type: 'hidden', name:'authenticity_token', value: form_authenticity_token}
+        .form-group
+          %label.control-label.col-md-3.col-sm-3.col-xs-12{for: 'quiz_name'}
+            Quiz Name
+            %span.required *
+          .col-md-6.col-sm-6.col-xs-12
+            %input#quiz_name.form-control.col-md-7.col-xs-12{required: 'required', type: 'text', name:'quiz_name'}/
+        .form-group
+          %label.control-label.col-md-3.col-sm-3.col-xs-12{for: 'questions_count'}
+            Questions Count
+            %span.required *
+          .col-md-6.col-sm-6.col-xs-12
+            %input#questions_count.form-control.col-md-7.col-xs-12{required: 'required', type: 'number', name:'questions_count', min: 10, max: 30, value: 18}/
+        %br/
+        .form-group
+          .col-md-9.col-md-offset-3
+            = link_to('Cancel', :back, {class: 'btn  btn-round btn-primary'})
+            %button.btn.btn-round.btn-success{:type => "submit"} Submit

@@ -7,7 +7,7 @@
       %h2 Quiz of #{@quiz.due_date}
       %br
 
-      %form.form-horizontal{ action: set_answer_question_path, method: :post }
+      %form.form-horizontal{ action: '', method: :post }
         %input{ type: 'hidden', name:'utf8', value: '✓'}
         %input{ type: 'hidden', name:'authenticity_token', value: form_authenticity_token}
         - question_count = 0
